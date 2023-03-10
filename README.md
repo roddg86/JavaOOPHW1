@@ -1,2 +1,0 @@
-# JavaOOPHW1
-# JavaOOPHW1
